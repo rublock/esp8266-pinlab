@@ -1,3 +1,4 @@
+# https://docs.pinlab.ru/products:laboratory_iot:exp1
 from machine import Pin
 import time
 
@@ -16,4 +17,3 @@ while True:
     time.sleep(1)
     led.on()
     time.sleep(1)
-    
